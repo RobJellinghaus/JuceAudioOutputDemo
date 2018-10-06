@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JuceAudioOutputDemo", "JuceAudioOutputDemo.vcxproj", "{BE131D46-CB3D-4559-8475-404BA2FC21D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE131D46-CB3D-4559-8475-404BA2FC21D8}.Debug|x64.ActiveCfg = Debug|x64
+		{BE131D46-CB3D-4559-8475-404BA2FC21D8}.Debug|x64.Build.0 = Debug|x64
+		{BE131D46-CB3D-4559-8475-404BA2FC21D8}.Release|x64.ActiveCfg = Debug|x64
+		{BE131D46-CB3D-4559-8475-404BA2FC21D8}.Release|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B58DFAB-15C9-4856-B89F-391E1925669E}
+	EndGlobalSection
+EndGlobal
